@@ -1,0 +1,16 @@
+city,period_type,period,value,unit,value_mg,source_file,location_in_source,status
+Beijing,calendar,2018,10.76,1e8 m3,284249.1,beijing_water_statistics_yearbook_2022.pdf,"Table 1 water resources, reclaimed water row",verified_in_search
+Beijing,calendar,2019,11.52,1e8 m3,304326.1,beijing_water_statistics_yearbook_2022.pdf,"Table 1, reclaimed water row",verified_in_search; confirm column order
+Beijing,calendar,2020,12.01,1e8 m3,317270.6,beijing_water_statistics_yearbook_2022.pdf,"Table 1, reclaimed water row",verified_in_search; confirm column order
+Beijing,calendar,2021,12.03,1e8 m3,317798.9,beijing_water_statistics_yearbook_2022.pdf,"Table 1, reclaimed water row",verified_in_search; confirm column order
+Beijing,calendar,2022,12.05,1e8 m3,318327.3,beijing_water_statistics_yearbook_2022.pdf,"Table 1, reclaimed water row",verified_in_search
+Beijing,calendar,2023,12.77,1e8 m3,337347.6,beijing_water_resources_bulletin_2023.pdf,Section 3(4) reclaimed water,verified_in_search
+Beijing,calendar,2024,13.23,1e8 m3,349499.6,beijing_2024_reclaimed_water_announcement.html,Main text,verified_in_search
+Sydney,fiscal_jul_jun,2021-22,37693,ML,9957.4,sydney_water_annual_report_2021_22.pdf,Recycled water table: quantity supplied,verified_in_search
+Sydney,fiscal_jul_jun,2022-23,41200,ML,10514,sydney_water_conservation_report_2023_24.pdf,Table 10 (39.8 GL),verified_in_search
+Sydney,fiscal_jul_jun,2023-24,40068,ML,10584.8,sydney_water_conservation_report_2023_24.pdf,Section 5.2,verified_in_search
+Sydney,fiscal_jul_jun,2018-19,44000,ML,11623.57,bom_urban_npr (matching year),Indicator W26,verified_in_search
+Sydney,fiscal_jul_jun,2019-20,47000,ML,12416.09,bom_urban_npr (matching year),Indicator W26,verified_in_search
+Sydney,fiscal_jul_jun,2020-21,37700,ML,9959.29,bom_urban_npr (matching year),Indicator W26,verified_in_search
+Sydney,fiscal_jul_jun,2024-25,34525,ML,9120.54,Sydney Water 2024-25 report,Indicator W26,verified_in_search
+Singapore,calendar,2007-2025,,million m3,,singapore_newater_annual.json,Full series,LOAD FROM FILE (official dataset)

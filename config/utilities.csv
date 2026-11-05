@@ -1,0 +1,12 @@
+label,global_id,location_key,include,notes
+DSRSD,NPD100051638,dsrsd,Y,Dublin San Ramon SD WWTP; inland Bay Area; cross-checked against utility-provided 2025 data
+LA Hyperion,WDR100001158,la_hyperion,Y,Hyperion WWTP; coastal Los Angeles
+LA Tillman,WDR100001153,la_tillman,Y,Donald C. Tillman WWRP; San Fernando Valley
+San Diego North City,WDR100035946,san_diego,Y,North City WRP; coastal San Diego
+Irvine Michelson,NPD100051948,irvine,Y,Michelson WWRF; Irvine Ranch Water District; Orange County
+San Jose Santa Clara,NPD100051475,san_jose,Y,San Jose/Santa Clara WPCP; South Bay
+Santa Rosa Laguna,NPD100051903,santa_rosa,Y,Santa Rosa Laguna Subregional; North Bay
+Palm Desert,WDR100029854,palm_desert,Y,Palm Desert WRP #10; Coachella Valley desert
+Fresno Regional,WDR100028344,fresno,Y,Fresno Regional WWTF; Central Valley; one zero month
+Bakersfield,WDR100027078,bakersfield,Y,Bakersfield WWTP #2; southern Central Valley
+OC GWRS,WDR100032584,orange_county,N,Excluded: groundwater injection at steady rate; supply-driven not demand-driven

@@ -1,0 +1,36 @@
+{
+  "git_commit": "not a git repository",
+  "python": "3.12.7",
+  "numpy": "1.26.4",
+  "pandas": "2.1.4",
+  "sklearn": "1.5.1",
+  "scipy": "1.13.1",
+  "matplotlib": "3.9.2",
+  "random_state": 42,
+  "params": {
+    "n_estimators": 200,
+    "learning_rate": 0.1,
+    "max_depth": 2,
+    "subsample": 1.0
+  },
+  "params_no_recent_lags": {
+    "n_estimators": 200,
+    "learning_rate": 0.03,
+    "max_depth": 2,
+    "subsample": 1.0
+  },
+  "params_separate": {
+    "n_estimators": 200,
+    "learning_rate": 0.05,
+    "max_depth": 2,
+    "subsample": 1.0
+  },
+  "hac_bandwidth": 3,
+  "input_sha256": {
+    "panel.csv": "5a692750a7db12505b7a225c7a1cd2898db42873c770c85af45bf204fd81a9a5",
+    "var_effluent.csv": "f4baa10a3da62930396ea29786a8bc50d0f4135d6a0bec450fe9f4ecbd38c554",
+    "var_facilities.csv": "0e8615a786a9a9c54812714dd3c437cb83e3049fc7cea225f34a986e43b7e28b",
+    "var_reuse.csv": "380708134831bd9b114477f74f820a4454faa8ad298021c6761d7fb49ec2964b"
+  },
+  "eval_months": "2022-01 to 2025-12"
+}

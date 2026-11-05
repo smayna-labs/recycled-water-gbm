@@ -1,0 +1,6 @@
+# Environment used for the published results (Python 3.12.7, macOS).
+numpy==1.26.4
+pandas==2.1.4
+scikit-learn==1.5.1
+scipy==1.13.1
+matplotlib==3.9.2

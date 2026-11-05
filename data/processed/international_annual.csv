@@ -1,0 +1,34 @@
+city,period_type,start_year,value,unit,value_mg,source
+Beijing,calendar,2018,10.76,1e8 m3,284249.072,beijing_water_statistics_yearbook_2022.pdf
+Beijing,calendar,2019,11.52,1e8 m3,304326.144,beijing_water_statistics_yearbook_2022.pdf
+Beijing,calendar,2020,12.01,1e8 m3,317270.572,beijing_water_statistics_yearbook_2022.pdf
+Beijing,calendar,2021,12.03,1e8 m3,317798.91599999997,beijing_water_statistics_yearbook_2022.pdf
+Beijing,calendar,2022,12.05,1e8 m3,318327.26,beijing_water_statistics_yearbook_2022.pdf
+Beijing,calendar,2023,12.77,1e8 m3,337347.644,beijing_water_resources_bulletin_2023.pdf
+Beijing,calendar,2024,13.23,1e8 m3,349499.55600000004,beijing_2024_reclaimed_water_announcement.html
+Singapore,calendar,2007,49.15,million m3,12984.053800000002,singapore_newater_annual.json
+Singapore,calendar,2008,65.99,million m3,17432.71028,singapore_newater_annual.json
+Singapore,calendar,2009,71.95,million m3,19007.175400000004,singapore_newater_annual.json
+Singapore,calendar,2010,96.4,million m3,25466.180800000006,singapore_newater_annual.json
+Singapore,calendar,2011,102.4,million m3,27051.212800000005,singapore_newater_annual.json
+Singapore,calendar,2012,111.4,million m3,29428.760800000004,singapore_newater_annual.json
+Singapore,calendar,2013,114.1,million m3,30142.0252,singapore_newater_annual.json
+Singapore,calendar,2014,117.1,million m3,30934.5412,singapore_newater_annual.json
+Singapore,calendar,2015,124.8,million m3,32968.6656,singapore_newater_annual.json
+Singapore,calendar,2016,126.9,million m3,33523.42680000001,singapore_newater_annual.json
+Singapore,calendar,2017,140.2,million m3,37036.9144,singapore_newater_annual.json
+Singapore,calendar,2018,140.5,million m3,37116.166000000005,singapore_newater_annual.json
+Singapore,calendar,2019,145.5,million m3,38437.026000000005,singapore_newater_annual.json
+Singapore,calendar,2020,141.1,million m3,37274.669200000004,singapore_newater_annual.json
+Singapore,calendar,2021,148.9,million m3,39335.21080000001,singapore_newater_annual.json
+Singapore,calendar,2022,148.2,million m3,39150.2904,singapore_newater_annual.json
+Singapore,calendar,2023,145.1,million m3,38331.3572,singapore_newater_annual.json
+Singapore,calendar,2024,148.4,million m3,39203.124800000005,singapore_newater_annual.json
+Singapore,calendar,2025,153.8,million m3,40629.653600000005,singapore_newater_annual.json
+Sydney,fiscal_jul_jun,2018,44000.0,ML,11623.568000000001,bom_urban_npr (matching year)
+Sydney,fiscal_jul_jun,2019,47000.0,ML,12416.084,bom_urban_npr (matching year)
+Sydney,fiscal_jul_jun,2020,37700.0,ML,9959.2844,bom_urban_npr (matching year)
+Sydney,fiscal_jul_jun,2021,37693.0,ML,9957.435196,sydney_water_annual_report_2021_22.pdf
+Sydney,fiscal_jul_jun,2022,41200.0,ML,10883.886400000001,sydney_water_conservation_report_2023_24.pdf
+Sydney,fiscal_jul_jun,2023,40068.0,ML,10584.843696,sydney_water_conservation_report_2023_24.pdf
+Sydney,fiscal_jul_jun,2024,34525.0,ML,9120.5383,Sydney Water 2024-25 report

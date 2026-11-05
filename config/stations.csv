@@ -1,0 +1,14 @@
+location_key,city,station_name,noaa_station_id,notes
+dsrsd,Dublin CA,Livermore Municipal Airport CA,USW00023285,Verified
+la_hyperion,Los Angeles CA,Los Angeles International Airport CA,USW00023174,Verified
+la_tillman,Van Nuys CA,Van Nuys Airport CA,USW00093134,Verified
+san_diego,San Diego CA,San Diego Lindbergh Field CA,USW00023188,Verified
+irvine,Irvine CA,Santa Ana John Wayne Airport CA,USW00093184,Verified
+san_jose,San Jose CA,San Jose International Airport CA,USW00023230,Verified
+santa_rosa,Santa Rosa CA,Santa Rosa Sonoma County Airport CA,USW00023213,Verified
+palm_desert,Palm Desert CA,Palm Springs International Airport CA,USW00093138,Verified
+fresno,Fresno CA,Fresno Yosemite International Airport CA,USW00093193,Verified
+bakersfield,Bakersfield CA,Bakersfield Meadows Field CA,USW00023155,Verified
+singapore,Singapore,Singapore Changi Airport,SNM00048698,Verified
+sydney,Sydney,Sydney Observatory Hill or Sydney Airport,ASN00066037,Verified
+beijing,Beijing,Beijing station,CHM00054511,Verified
